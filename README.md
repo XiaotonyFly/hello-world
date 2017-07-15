@@ -1,2 +1,2 @@
 # hello-world
-测试jfinal上手项目
+测试git上手项目
